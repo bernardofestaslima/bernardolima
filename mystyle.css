@@ -1,0 +1,14 @@
+<!DOCTYPE css>
+{css}
+body {background-color: lightslategrey; width: 1010px; height: 450px; margin-left: auto; margin-right: auto;
+  }
+h1 {background-color: dodgerblue; color: white; text-align: center;}
+texto {float: right; width: 650px; background-color: white; padding-left: 50px; padding-right: 50px; height: 450px;}
+lateral {float: left; width: 250px; background-color: dodgerblue; color: white; height: 450px;
+  border-width: 10px; border-right-color: blue; border-right-style: solid;}
+h3 {text-align: center;}
+img {padding-top: 20px; padding-left: 10px; padding-right: 10px}
+.white {color: white;  text-decoration-line:none;}
+.whiteselect {font-weight: bold; color: white;  text-decoration-line:none; }
+.blackselect {color: black;font-weight: bold; text-decoration-line:none; position: absolute; top: 420px; left: 765px}
+.black {color: black;text-decoration-line:none; position: absolute; top: 420px ; right: 510px ;}

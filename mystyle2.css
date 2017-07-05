@@ -1,0 +1,26 @@
+<!DOCTYPE css><!DOCTYPE css>
+{css}
+body {background-color: lightslategrey; width: 1010px; height: 900px; margin-left: auto; margin-right: auto;
+  }
+h1 {background-color: dodgerblue; color: white; text-align: center;}
+texto {float: right; width: 650px; background-color: white; padding-left: 50px; padding-right: 50px; height: 900px;}
+lateral {float: left; width: 250px; background-color: dodgerblue; color: white; height: 900px;
+  border-width: 10px; border-right-color: blue; border-right-style: solid;}
+h3 {text-align: center;}
+img {padding-top: 20px; padding-left: 10px; padding-right: 10px;
+}
+lic { border-width: 650px; border-right-color: white; border-right-style: solid }
+era { border-width: 650px; border-right-color: white; border-right-style: solid }
+curso {border-width: 650px; border-right-color: white; border-right-style: solid }
+table, th, td {
+    border: 1px solid black;
+}
+th, td  {
+    padding: 15px;
+}
+tabela1 { border-width: 650px; border-right-color: white; border-right-style: solid }
+tabela2 { border-width: 650px; border-right-color: white; border-right-style: solid }
+.white {color: white; text-decoration-line:none;  }
+.whiteselect {font-weight: bold; color: white;  text-decoration-line:none; }
+.blackselect {color: black;font-weight: bold; text-decoration-line:none; position: absolute; top: 870px; left: 765px;}
+.black {color: black; text-decoration-line:none; position: absolute; top: 870px ; right: 510px; }

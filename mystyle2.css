@@ -23,4 +23,6 @@ tabela2 { border-width: 650px; border-right-color: white; border-right-style: so
 .blackselect {color: black;font-weight: bold; text-decoration-line:none; position: absolute; top: 870px; left: 765px;}
 .black {color: black; text-decoration-line:none; position: absolute; top: 870px ; right: 510px; }
 .cv {padding-top: 30px;}
-.cert {padding-bottom: 40px; }
+#cert1 {padding-bottom: 40px; }
+#cert2 {padding-bottom: 40px; }
+#cert3 {padding-bottom: 40px; }

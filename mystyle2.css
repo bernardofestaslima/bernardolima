@@ -10,9 +10,6 @@ lateral {float: left; width: 250px; background-color: dodgerblue; color: white; 
 h3 {text-align: center;}
 img {padding-top: 20px; padding-left: 10px; padding-right: 10px;
 }
-lic { border-width: 650px; border-right-color: white; border-right-style: solid }
-era { border-width: 650px; border-right-color: white; border-right-style: solid }
-curso {border-width: 650px; border-right-color: white; border-right-style: solid }
 table, th, td {
     border: 1px solid black;
 }
@@ -25,4 +22,5 @@ tabela2 { border-width: 650px; border-right-color: white; border-right-style: so
 .whiteselect {font-weight: bold; color: white;  text-decoration-line:none; }
 .blackselect {color: black;font-weight: bold; text-decoration-line:none; position: absolute; top: 870px; left: 765px;}
 .black {color: black; text-decoration-line:none; position: absolute; top: 870px ; right: 510px; }
-.cv {padding-top: 40px;}
+.cv {padding-top: 30px;}
+.cert {padding-bottom: 40px; }

@@ -11,6 +11,7 @@ h3 {text-align: center;}
 img {padding-top: 20px; padding-left: 10px; padding-right: 10px; }
 .white {color: white;  text-decoration-line:none;}
 .whiteselect {font-weight: bold; color: white;  text-decoration-line:none; }
-.blackselect {color: black;font-weight: bold; text-decoration-line:none; float: left;  }
-.black {color: black;text-decoration-line:none; position: fixed; right: 500px;  }
-#footer {  position: absolute; top: 440px; }
+.blackselect {color: black;font-weight: bold; text-decoration-line:none; float: left;
+padding-right: 10px; border-right-style: solid;border-right-width: 5px;  }
+.black {color: black;text-decoration-line:none; padding-left: 10px;  }
+#footer {  position: absolute; top: 440px; padding-left: 250px; }

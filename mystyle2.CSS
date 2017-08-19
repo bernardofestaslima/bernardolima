@@ -1,0 +1,21 @@
+<!DOCTYPE css>
+{css}
+body {background-color: lightslategrey; width: 1010px; height: 430px; margin-left: auto; margin-right: auto; text-align: justify;
+    text-justify: inter-word;
+  }
+h1 {background-color: dodgerblue; color: white; text-align: center;}
+texto {float: right; width: 650px; background-color: white; padding-left: 50px; padding-right: 50px; height: 430px;}
+lateral {float: left; width: 260px; background-color: dodgerblue; color: white; height: 430px;
+  }
+h3 {text-align: center;}
+img {padding-top: 20px; padding-left: 15px; padding-right: 15px;  }
+.white {color: white;  text-decoration-line:none;}
+.whiteselect {font-weight: bold; color: white;  text-decoration-line:none; }
+.blackselect {color: black;font-weight: bold; text-decoration-line:none; float: left;
+padding-right: 10px; border-right-style: solid;border-right-width: 5px;  }
+.black {color: black;text-decoration-line:none; padding-left: 10px;  }
+#footer {  position: absolute; top: 400px; padding-left: 300px; }
+#uni {padding-top: 20px;
+}
+#posto {padding-top: 20px;
+}
